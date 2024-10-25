@@ -1,5 +1,4 @@
-# Fraud_Analytics_Knowledge_Assessment
-Fraud Analytics Knowledge Assessment
+# Fraud Analytics Knowledge Assessment
 
 -----
 English:
