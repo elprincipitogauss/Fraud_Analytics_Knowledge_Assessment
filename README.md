@@ -14,7 +14,7 @@ Instructions:
 
 1. Download the Data
 
-  * Access the provided Git repository (URL) and download the dataset to get started.
+  * Access the provided Git repository ([URL](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset)) and download the dataset to get started.
 
 2. Understand the Business Problem
 
@@ -74,7 +74,7 @@ Instrucciones:
 
 1. Descargar los Datos
 
-  * Accede al repositorio Git proporcionado (URL) y descarga el conjunto de datos para trabajar.
+  * Accede al repositorio Git proporcionado ([URL](https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset)) y descarga el conjunto de datos para trabajar.
 
 2. Comprender el Problema de Negocio
 
@@ -120,3 +120,8 @@ Instrucciones:
   * Puede solicitarse una demostración de los artefactos durante la sesión.
 
 **Nota**: En el correo se pueden especificar reglas de juego adicionales para la prueba, asegúrate de revisarlas.
+
+
+-------------
+fraud transactions dataset : https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset
+-------------
